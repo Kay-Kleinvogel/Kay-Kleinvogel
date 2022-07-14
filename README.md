@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://dev.to/@ironlors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ironlors" height="30" width="40" /></a>
 <a href="https://twitter.com/kaykleinvogel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaykleinvogel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kay kleinvogel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kay kleinvogel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaykleinvogel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kay kleinvogel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
