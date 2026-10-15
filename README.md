@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **cloud migration, GCP, react**
 
-- 📫 How to reach me **kaykleinvogel@googlemail.com**
-
 - ⚡ Fun fact **I actually never worked with SQL in a project**
 
 <h3 align="left">Connect with me:</h3>
